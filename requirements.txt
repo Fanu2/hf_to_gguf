@@ -1,6 +1,2 @@
-streamlit>=1.26.0
-huggingface-hub>=0.18.0
-textwrap3
-apscheduler>=3.10.0
-# For type hinting and Path support
-typing-extensions
+streamlit
+huggingface_hub
